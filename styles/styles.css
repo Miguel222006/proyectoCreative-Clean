@@ -427,6 +427,7 @@ footer {
     /* margin-right: 0%; */
     flex-direction: column-reverse;
     align-items: flex-start;
+    padding: 30px 50px;
   }
 
   .parte3 h3 {
